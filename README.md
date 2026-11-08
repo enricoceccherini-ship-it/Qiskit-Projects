@@ -7,3 +7,4 @@ Current Projects:
 3) Simulation of a Single-Qubit Quantum Interference Experiment
 4) Quantum Phase Kickback Demonstration
 5) Superdense Coding Simulation
+6) CHSH Inequality Test
